@@ -1,0 +1,11 @@
+topic,question,correct_answer
+ai,What is AI?,AI is the simulation of human intelligence by machines.Artificial Intelligence is when machines mimic human thinking.AI systems can understand natural language. recognize images and speech & analyze information and even simulate reasoning and problem-solving.Artificial Intelligence (AI) is the branch of computer science that focuses on creating machines that can perform tasks requiring human-like intelligence.AI is a technology that allows computers to analyze information & learn from it & and act intelligently. It aims to make machines capable of performing real-world tasks such as problem-solving & decision-making and understanding human behavior.
+ai,What is Machine Learning?,Machine Learning is a subset of AI that learns from data.
+ai,What is Deep Learning?,Deep Learning uses neural networks with multiple layers.
+ml,What is supervised learning?,Supervised learning is a type of Machine Learning where the model is trained on labeled data.
+ml,What is unsupervised learning?,Unsupervised learning is a type of Machine Learning where the model finds patterns in unlabeled data.
+ml,What is reinforcement learning?,Reinforcement learning is a type of Machine Learning where an agent learns by receiving rewards or penalties.
+ml,What is a neural network?,"A neural network is a computational model inspired by the human brain, used in Deep Learning."
+dl,What is overfitting?,Overfitting occurs when a model performs well on training data but poorly on new data.
+dl,What is natural language processing?,Natural Language Processing (NLP) enables machines to understand and process human language.
+dl,What is computer vision?,Computer vision is a field of AI that enables machines to interpret and analyze visual information from the world.
